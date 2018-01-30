@@ -116,10 +116,10 @@ html{
 }
 ```
 
-###VW
+### VW
 * Unités relatives à la taille de votre écran (peu importe le device).
 * Attention au VH et à son contenu. 100vh === 100vh quoi qu'il arrive.
 * VW: très utile pour les interfaces fluides.
 
-##Liens utiles
+## Liens utiles
 * [CanIuse] https://caniuse.com/
